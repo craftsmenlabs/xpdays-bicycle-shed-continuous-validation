@@ -1,0 +1,5 @@
+Experiment: Sale of on display products
+
+Baseline: Get current count sold products
+Assumption: Number of displayed products sold is 10
+Time: 1 Minute
